@@ -69,4 +69,4 @@ evidence-based interventions.
 ---
 This portfolio showcases my learning journey, analytical skills,
 research interests, and projects in addiction studies, public
-health, and business intelligence.*
+health, and business intelligence.
