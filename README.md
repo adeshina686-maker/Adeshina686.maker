@@ -1,5 +1,12 @@
 # Hi, I'm Ganiyat Folashade Adeshina 👋
 
+### 💼 Experience & Background
+### Data & Business Analysis:
+Experience in data cleaning, customer insights, reporting, and operational analytics across Logistics and supply chain, retail and customer service environments.
+
+### Statistical Research Foundation:
+Academic background in Statistics and Mathematics with practical research experience in survey design, data collection, and behavioral data analysis (including substance use studies and environmental factor influencing the weight of newborn).
+
 ### Aspiring Addiction Research Analyst | Data Analyst | Business Intelligence Analyst
 
 I am an aspiring Addiction Research Analyst, Data Analyst, and Business Intelligence Analyst with an interest in applying data, statistics, research, and business analysis to addiction studies and prevention.
